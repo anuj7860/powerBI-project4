@@ -57,3 +57,23 @@ This report provides a high-level overview of the sales performance for March 20
 
 
 # dashboard visuals :
+
+![Screenshot 2024-09-14 132707](https://github.com/user-attachments/assets/7577b99b-4009-4fba-bc58-e5b443fa4ef9)
+
+![Screenshot 2024-09-14 132719](https://github.com/user-attachments/assets/6a13c6cd-54d2-4778-8837-11264e1dd8ba)
+
+![Screenshot 2024-09-14 132728](https://github.com/user-attachments/assets/b52f19f4-668b-4d24-a336-e9321afa09d9)
+
+![Screenshot 2024-09-14 132741](https://github.com/user-attachments/assets/40e0ed0e-317a-483f-b363-84a49d24bd1b)
+
+# forecast :
+
+![Screenshot 2024-09-14 132755](https://github.com/user-attachments/assets/444d536b-618d-4a49-8924-06f7e989f231)
+
+# table relationship :
+
+![Screenshot 2024-09-14 132814](https://github.com/user-attachments/assets/91b7055a-697c-47ba-87d7-5fed75f96748)
+
+# working :
+
+
